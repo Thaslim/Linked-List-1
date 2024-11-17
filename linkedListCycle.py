@@ -1,3 +1,7 @@
+"""
+TC: O(N) to traverse N nodes
+SP:O(1)
+"""
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
